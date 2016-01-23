@@ -5,7 +5,7 @@ using namespace std;
 long long int calculateBinary(long long int n){
 	
 	if (n == 0 || n == 1){
-		cout << n;
+//		cout << n;
 		return n;
 	}
 	
