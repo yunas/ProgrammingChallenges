@@ -6,6 +6,7 @@
 #include <sstream>
 using namespace std;
 
+//He is a very very good boy, isn't he?
 bool punct(char& c) {
 	return ispunct(c);
 }
